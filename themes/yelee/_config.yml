@@ -17,7 +17,7 @@ menu:
 avatar: /img/avatar.jpeg
 
 # Small icon of Your site | 站点小图标地址
-favicon: /favicon.png
+favicon: /img/avatar.jpeg
 
 # Internationalization | 主题语言
 ## Change Language in SITE's _config.yml | 在站点配置中切换语言
@@ -104,12 +104,12 @@ duoshuo:
   # http://<要填的部分>.duoshuo.com (domain只填上<>里的内容，不要填整个网址)
 
 youyan:
-  #on: true
-  id: 
+  on: true
+  id: 2122080
   # 是否开启友言评论，http://www.uyan.cc/index.php
-  # id 中填写你的友言用户数字ID，注册后进入后台管理即可查看
-  # 友言服务在 Web 环境下运行，普通本地环境无法查看，请部署后在线上测试。
-
+  #   # id 中填写你的友言用户数字ID，注册后进入后台管理即可查看
+  #     # 友言服务在 Web 环境下运行，普通本地环境无法查看，请部署后在线上测试。
+  #
 
 # >>> Style Customisation 样式自定义 <<<
 
@@ -258,7 +258,7 @@ baidu_site:
 google_site: 
 
 # Fill in Google Analytics tracking ID, #e.g. UA-XXXXX-X
-google_analytics: 
+google_analytics: UA-89151683-1
 
 # 百度统计 http://sitecenter.baidu.com/sc-web/
 # 查看代码，填入 //hm.baidu.com/hm.js? 之后的内容

@@ -11,7 +11,7 @@ categories: [生活]
   * 简直神器，集聚所有网友的力量一起找deal，而且可以知道这个是不是个好deal
 * cheapassgamer
   * 看名字就知道，但是网站做的有点乱，不是特别喜欢看。。
-  * psdeals.com
+* psdeals.com
 
 ## Deals的来源
 * Neweggs

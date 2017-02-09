@@ -3,7 +3,7 @@
 title: Fallacies about Microservices
 date: 2016-12-18
 categories: [每日一读]
-tags: [每日一读]
+tags: [Server]
 ---
 
 Microservices这个词前段时间算是比较火，尤其是很多小公司，microservices几乎充斥了整个backend services。今天看了一篇文章是对这个服务的优缺点的分析，正好学习一下。
@@ -49,3 +49,4 @@ Micro service带来的趋势就是每个小组可以去负责一个简单的问�
 
 ## Reference
 https://dzone.com/articles/microservices-please-dont?utm_source=wanqu.co&utm_campaign=Wanqu%20Daily&utm_medium=rss
+

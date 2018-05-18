@@ -1,5 +1,5 @@
 ---
-title: Hyper Configuration 
+title: Hyper 
 date: 2017-05-15 22:00:00
 tags: [Terminal]
 categories: [Productivity]

@@ -2,7 +2,7 @@
 title: Leetcode-[3Sum Closest] 
 date: 2017-05-15 22:00:00
 tags: [找工作]
-categories: [Leetcode]
+categories: [Leetcode, Array]
 ---
 
 # Problem Definition

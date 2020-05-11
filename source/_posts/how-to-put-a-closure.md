@@ -1,7 +1,7 @@
 ---
 title: How to Put A Closure
 date: 2020-02-21 14:55:00
-tags: [Word]
+tags: [Work]
 categories: [Thought Process]
 ---
 最近回顾了一下去年做的东西，发现自己做了很多东西，但是没有成果出来，很沮丧。今天跟manager聊了一下，发现了一些自己需要思考和做的事情。
@@ -30,3 +30,6 @@ categories: [Thought Process]
 * 读过很多文章，都在重复说一个观点，听起来还挺玄乎的。
 * 这个概念就是entropy。越条例，entropy越小。一生中不是entropy越来越小的，而是有起有伏的，起的时候就是学习新内容的时候，但是新内容混在一起，虽然entropy很大，但是太乱了，所以我们又要让它变得条例，所以要尽量的降低entropy。Put A Closure也是一个降熵的过程。压缩的过程我们又不希望丢掉东西，所以要尽量多的把东西融进去，不然不白做了。
 * 还是那句话，do a little more everyday，但是现在要多一句话了，but be organized。或者说，increase entropy but decrease it as well.
+
+
+Do A little More Everyday.

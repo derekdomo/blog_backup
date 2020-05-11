@@ -1,6 +1,6 @@
 ---
 title: 2018 总结
-date: 2019-01-01 22:40:05
+date: 1970-01-01 22:40:05
 tags: [新知识, Work]
 categories: [Work]
 ---
@@ -54,6 +54,13 @@ Skills
 - 冥想
 
 
-Look foward
+Look forward
 ------
+职位上和能力上都更进一步
+有一个坚持下去的side project
+坚持下去健身和冥想
+多和父母沟通
+买房子
+
+
 
